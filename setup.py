@@ -6,7 +6,7 @@ setup(
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This is a package for instrument.',   # Give a short description about your library
   author = 'ETCGroup',                   # Type in your name
-  author_email = 'your.email@domain.com',      # Type in your E-Mail
+  author_email = 'polynex_research@163.com',      # Type in your E-Mail
   url = 'https://github.com/BrendaYC/instrument',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/BrendaYC/instrument/archive/'0.1'.tar.gz',   
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
